@@ -5,7 +5,7 @@
 This project I used Hugging Face to create a AI generated blog post
 
 ### Tools Used 
-- Transformers
+- Transformers (GPT-2)
 - Jupyter Notebooks
 - Torch
 
