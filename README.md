@@ -13,4 +13,4 @@ This project I used Hugging Face to create a AI generated blog post
 
 
 Resources
-- [Words Taken From](https://jamesclear.com/creative-thinking)
+- [Title Taken From](https://jamesclear.com/creative-thinking)
